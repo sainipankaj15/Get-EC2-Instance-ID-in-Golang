@@ -1,0 +1,1 @@
+- By running this script, you can get the Instance ID of EC2 instance
